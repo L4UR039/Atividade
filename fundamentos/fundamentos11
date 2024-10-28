@@ -1,0 +1,6 @@
+let numb = [39, 12, 41, 22, 90, 1];
+let n = 2;
+
+let last_numb = numb.slice(-n);
+
+console.log(last_numb);
